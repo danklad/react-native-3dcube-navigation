@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zehfernandes/react-native-3dcube-navigation.git"
+    "url": "git+https://github.com/danklad/react-native-3dcube-navigation.git"
   },
   "author": "Zeh Fernandes",
   "license": "ISC",
@@ -22,9 +22,9 @@
     "src"
   ],
   "bugs": {
-    "url": "https://github.com/zehfernandes/react-native-3dcube-navigation/issues"
+    "url": "https://github.com/danklad/react-native-3dcube-navigation/issues"
   },
-  "homepage": "https://github.com/zehfernandes/react-native-3dcube-navigation#readme",
+  "homepage": "https://github.com/danklad/react-native-3dcube-navigation#readme",
   "dependencies": {
     "react": "^16.5.0"
   }
